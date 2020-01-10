@@ -1,6 +1,6 @@
 # NAVA568_MobileRobotics_Team12
 
-# https://gitlab.eecs.umich.edu/jiachzhu/NAVA568_MobileRobotics_Team12
+https://gitlab.eecs.umich.edu/jiachzhu/NAVA568_MobileRobotics_Team12
 
 There are two main parts in our code. 
 
